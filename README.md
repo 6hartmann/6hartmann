@@ -1,6 +1,6 @@
 👋 Hi, I’m Max.  
 👀 I’m just here to browse repos and help my friends.  
-📫 **max ඞ#0001**  
+📫 ***max#0001**  
   
 I could most definitely develop and code things, if I had the motivation and focus to do that.  
 Since I don't own those features, all I do is sys-admin work on multiple projects of my own or help out other people. :)
